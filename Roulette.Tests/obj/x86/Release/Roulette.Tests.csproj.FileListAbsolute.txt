@@ -1,0 +1,10 @@
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\Roulette.Tests.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\Roulette.Tests.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\nunit.framework.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\Roulette.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Release\nunit.framework.xml
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Release\Roulette.Tests.csprojResolveAssemblyReference.cache
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Release\Roulette.Tests.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Release\Roulette.Tests.pdb

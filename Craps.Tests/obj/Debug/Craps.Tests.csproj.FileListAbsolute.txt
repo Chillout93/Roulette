@@ -1,0 +1,6 @@
+D:\Google Drive\Projects\Roulette\Craps.Tests\bin\Debug\Craps.Tests.exe.config
+D:\Google Drive\Projects\Roulette\Craps.Tests\bin\Debug\Craps.Tests.exe
+D:\Google Drive\Projects\Roulette\Craps.Tests\bin\Debug\Craps.Tests.pdb
+D:\Google Drive\Projects\Roulette\Craps.Tests\obj\Debug\Craps.Tests.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\Roulette\Craps.Tests\obj\Debug\Craps.Tests.exe
+D:\Google Drive\Projects\Roulette\Craps.Tests\obj\Debug\Craps.Tests.pdb

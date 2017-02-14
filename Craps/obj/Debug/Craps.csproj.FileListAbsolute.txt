@@ -1,0 +1,6 @@
+D:\Google Drive\Projects\Roulette\Craps\bin\Debug\Craps.exe.config
+D:\Google Drive\Projects\Roulette\Craps\bin\Debug\Craps.exe
+D:\Google Drive\Projects\Roulette\Craps\bin\Debug\Craps.pdb
+D:\Google Drive\Projects\Roulette\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\Roulette\Craps\obj\Debug\Craps.exe
+D:\Google Drive\Projects\Roulette\Craps\obj\Debug\Craps.pdb

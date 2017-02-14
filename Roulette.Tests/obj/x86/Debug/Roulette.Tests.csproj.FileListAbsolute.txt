@@ -1,0 +1,18 @@
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.Tests.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.Tests.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\nunit.framework.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\bin\x86\Debug\nunit.framework.xml
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.csprojResolveAssemblyReference.cache
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.pdb
+D:\Google Drive\Projects\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.dll
+D:\Google Drive\Projects\Roulette\Roulette.Tests\obj\x86\Debug\Roulette.Tests.pdb
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.Tests.dll
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.Tests.pdb
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\nunit.framework.dll
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.exe
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\Roulette.pdb
+D:\Google Drive\Projects\Roulette\Roulette.Tests\bin\x86\Debug\nunit.framework.xml

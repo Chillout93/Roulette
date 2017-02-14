@@ -1,0 +1,8 @@
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Release\Roulette.exe.config
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Release\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Release\Roulette.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Release\nunit.framework.dll
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Release\nunit.framework.xml
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Release\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Release\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Release\Roulette.pdb

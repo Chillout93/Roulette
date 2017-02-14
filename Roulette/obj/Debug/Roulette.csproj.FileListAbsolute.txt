@@ -1,0 +1,26 @@
+C:\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Roulette\Roulette\bin\Debug\nunit.framework.dll
+C:\Roulette\Roulette\bin\Debug\nunit.framework.xml
+C:\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\nicks_000\Dropbox\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\spic01\Dropbox\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\Roulette\Roulette\bin\Debug\Roulette.exe.config
+D:\Google Drive\Projects\Roulette\Roulette\obj\Debug\Roulette.exe
+D:\Google Drive\Projects\Roulette\Roulette\obj\Debug\Roulette.pdb
+D:\Google Drive\Projects\Roulette\Roulette\bin\Debug\Roulette.exe
+D:\Google Drive\Projects\Roulette\Roulette\bin\Debug\Roulette.pdb
+D:\Google Drive\Projects\Roulette\Roulette\obj\Debug\Roulette.csprojResolveAssemblyReference.cache
